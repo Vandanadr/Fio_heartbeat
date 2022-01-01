@@ -1,7 +1,5 @@
     /*
-  Made on Jan 16, 2021
-  By MehranMaleki @ Electropeak
-  Home
+  By VandanaDR
 */
 
 void setup() {
